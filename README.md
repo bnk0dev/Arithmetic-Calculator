@@ -1,6 +1,6 @@
 # Base Transformations
 
-![Main Visual](Assets/picture.png)
+![Main Visual](Assets/picture.PNG)
 
 ### About the Project
 
